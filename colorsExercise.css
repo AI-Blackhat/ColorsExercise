@@ -1,0 +1,68 @@
+/* Color Name */
+h1 {
+    color: blue;
+    /* Bonus 1 */
+    background-color: red;
+}
+
+/* RGB */
+h2 {
+    color: rgb(0, 255, 0);
+    /* Bonus 1 */
+    background-color: orange;
+}
+
+/* Hexadecimal Shorthand */
+h3 {
+    color: #000;
+    /* Bonus 1 */
+    background-color: yellow;    
+}
+
+/* Hexadecimal */
+h4 {
+    color: #ff0000;
+    
+    background-color: green;
+}
+
+/* Hexadecimal Shorthand with Transparency */
+h5 {
+    color: #1112;
+    /* Bonus 1 */
+    background-color: blue;
+}
+
+/* RGBA */
+h6 {
+    color: rgba(150, 30, 20, 1);
+    /* Bonus 1 */
+    background-color: indigo;
+}
+
+/* Hexadecimal with Transparency */
+p {
+    color: #a0522d98;
+    /* Bonus 1 */
+    background-color: violet;
+}
+
+#first {
+    color: hotpink;
+}
+
+#last {
+    color: peachpuff;
+}
+
+/* Bonus 5 */
+.flast {
+    border: green;
+    border-style: solid;
+    border-width: 5 px;
+}  
+
+/* Another way using 1 line: 
+.flast { 
+border: solid 5px green;
+} */
